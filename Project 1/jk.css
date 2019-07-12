@@ -1,0 +1,50 @@
+.bom{ margin: auto;
+                margin-top: 20%;
+                margin-left: 35%;
+    
+               }
+.txt{ margin-top: 15%;
+      margin-left: auto;
+      color: white;}
+.txt:hover{
+    transform: scale(1.01);
+    
+}
+#oho{ margin: auto;}
+p{ color: white;}
+p:hover{ transform: scale(1.01);}
+             .dm{
+                 
+                 border-image-width: auto;
+                 width: 150px;
+                height: auto;
+             } 
+             .dm:hover{  box-shadow: light 4px;}
+             
+             body{background-color: aquamarine;}
+             
+             .dm:hover{transform: scale(1.1);
+                       border: aqua;}
+             footer{
+                 
+                 background-color:black;
+                 margin-bottom: 0;
+             }
+ l
+{
+   
+    list-style-type: none;
+    margin-top: 25px;
+}
+
+ul a { margin-top: 6px;
+    margin-left:40px;
+        padding: 10px; 
+float:right; }
+     
+#pk{
+    height="400" ;width="350" ;
+  margin-top: 40%;
+                margin-left: 40%;  
+
+}
